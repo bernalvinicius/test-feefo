@@ -1,0 +1,25 @@
+.account-overview {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 760px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+}
+
+.container-title {
+  display: flex;
+  align-items: center;
+  width: 350px;
+}
+
+.title {
+  font-size: 2rem;
+  text-transform: capitalize;
+  color: #4d4b4c;
+}
+
+.content-support-component {
+  display: flex;
+}

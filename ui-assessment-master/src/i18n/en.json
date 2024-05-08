@@ -1,0 +1,20 @@
+{
+  "accountOverview": {
+    "title": "account overview"
+  },
+  "supportContact": {
+    "title": "your feefo support contact",
+    "support": "support"
+  },
+  "sales": {
+    "title": "sales",
+    "youHad": "You had",
+    "uploads": "uploads",
+    "and": "and",
+    "linesAdded": "lines added."
+  },
+  "saleCalculation": {
+    "uploadSuccess": "upload success",
+    "linesSaved": "lines saved"
+  }
+}

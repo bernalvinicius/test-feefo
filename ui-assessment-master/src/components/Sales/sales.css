@@ -1,0 +1,44 @@
+.sales-container {
+  background-color: #fff;
+  border-radius: 6px;
+  margin-top: 50px;
+  box-shadow: (149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.upload-icon {
+  color: #3eb0ea;
+  margin-right: 10px;
+}
+
+.info-icon {
+  color: #bfbbbc;
+}
+
+.sales-title {
+  color: #333333;
+  font-size: 1.2rem;
+  font-weight: 900;
+  text-transform: capitalize;
+}
+
+.content-upload {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 15px;
+}
+
+.bold {
+  font-weight: 700;
+  color: #333333;
+}
+
+.sales-report {
+  color: #bfbbbc;
+  font-size: 1.2rem;
+}
+
+.content-sales {
+  padding: 15px 15px 25px;
+  border-bottom: 1px solid #ccc;
+}
